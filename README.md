@@ -1,4 +1,4 @@
-# 📊 SEC 10-K Financial Reports Question Answering & Comparison (RAG + Gradio)
+# 📊 SEC 10-K Financial Reports Question & Answering System (RAG + Gradio)
 
 This project is an interactive Gradio-based tool that lets users **query and compare SEC 10-K financial filings** using a **Retrieval-Augmented Generation (RAG)** pipeline with **Mistral-7B-Instruct**, semantic search, and hybrid retrieval.
 
