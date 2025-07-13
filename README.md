@@ -52,8 +52,11 @@ Built entirely in **Google Colab**, it helps financial analysts and NLP practiti
 <img width="1545" height="733" alt="image" src="https://github.com/user-attachments/assets/58a93f13-6d60-4f67-a043-290b3148c791" />
 <img width="1506" height="654" alt="image" src="https://github.com/user-attachments/assets/75b85715-fb77-400e-8571-1b987f29fe5e" />
 <img width="1506" height="654" alt="image" src="https://github.com/user-attachments/assets/4d256227-4296-4b1e-bf4e-cbb4c1a9e692" />
+
 ### Compare Fillings
 <img width="1492" height="813" alt="image" src="https://github.com/user-attachments/assets/dc5c1145-0d5e-43ab-8872-7c02d8e30e95" />
+
+---
 
 ## 🧪 Requirements
 
